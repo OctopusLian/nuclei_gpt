@@ -8,3 +8,9 @@ This is a project that uses Embedding vector Nuclei's template document. Running
 
 ### How to Use
 https://mp.weixin.qq.com/s/j7EHftzPdTf84lBzxpLb_Q
+
+### Download  
+
+```
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple langchain
+```
